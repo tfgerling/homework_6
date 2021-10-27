@@ -8,5 +8,5 @@ RDBMS stands for Relational Datbase Management System. It is designed totally fo
 - Every row in a table is nothing but a record through the unique ID known as key. Employs the normalization (method of arranging data in a database for eliminating the redundancy).
 ## What is SQL?
 SQL is Structured Query Language used in programming and designed fo managing data held in a relational database management system. It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
-## Certification of completion
+## Certificate of completion
 ![SQL Cert](https://github.com/tfgerling/homework_6/blob/main/SQL.PNG?raw=true)
